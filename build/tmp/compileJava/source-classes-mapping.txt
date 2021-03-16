@@ -1,0 +1,8 @@
+task/chess/ChessPiece.java
+ task.chess.ChessPiece
+task/chess/AppView.java
+ task.chess.AppView
+task/chess/Board.java
+ task.chess.Board
+task/chess/AppMain.java
+ task.chess.AppMain
