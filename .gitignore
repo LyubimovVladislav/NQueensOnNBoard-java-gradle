@@ -27,6 +27,7 @@ hs_err_pid*
 ##############################
 bin/
 build/
+gradle/
 .gradle
 .gradletasknamecache
 gradle-app.setting
@@ -36,11 +37,11 @@ gradle-app.setting
 ## IntelliJ
 ##############################
 out/
-.idea
+.idea/
 .idea_modules/
 *.iml
 *.ipr
 *.iws
-icons
-META-INF
+icons/
+META-INF/
 
